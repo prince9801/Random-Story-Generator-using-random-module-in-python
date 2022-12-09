@@ -12,7 +12,7 @@ roles = ['a college student','a youtuber',' a vlogger','a school student','a nor
 
 weather = [' a very hot and humid day',' a cloudy day',' a rainy day',' a cold night',' a sunny day']
 
-word = ['Once upon a time','A long time ago','In earlier times','On 20Th January']
+word = ['Once upon a time','A long time ago','In earlier times']
 
 saying = [' whose name was ',' named ',' known as ']
 
@@ -30,7 +30,7 @@ know = [' they all went to his stated location',' they reached that location tol
 
 after = [' he talked about mishappened occur with him',' he explained all that incident',' he described what happenend to him']
 
-insane = [' he told that one of his friend baited him in the name of party',' he described that how his friend has said that " let us have a party tonight',' he told whole story to his family memebers that his friend alok offered him to join tonight party']
+insane = [' he told that one of his friend baited him in the name of party',' he described that how his friend has said that " let us have a party tonight"',' he told whole story to his family memebers that his friend alok offered him to join tonight party']
 
 plot = [' but his friend was involved on drug peddling',' but his friend wss a drug supplier']
 
